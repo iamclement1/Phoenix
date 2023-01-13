@@ -1,8 +1,11 @@
+import { HiMenuAlt4 } from 'react-icons/hi';
+import { AiOutlineClose } from 'react-icons/ai'
+import Logo from '../assets/logo.png';
 const Navbar = () => {
     return (
-        <>
-        <h1>navbar</h1>
-        </>
+        <nav className='w-full flex md:justify-center justify-between items-center p-4'>
+            
+        </nav>
     )
 }
 export default Navbar
